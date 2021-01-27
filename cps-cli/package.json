@@ -1,0 +1,32 @@
+{
+  "name": "cps-cli",
+  "version": "0.0.6",
+  "description": "cupshe vue antd 后台模板",
+  "private": false,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "cps-cli": "index.js"
+  },
+  "dependencies": {
+    "chalk": "4.1.0",
+    "commander": "6.1.0",
+    "git-clone": "0.1.0",
+    "qoa": "0.2.0",
+    "shelljs": "0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:cupshe/cps-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "vue",
+    "antd",
+    "admin"
+  ],
+  "author": "wklili",
+  "license": "ISC"
+}
