@@ -1,2 +1,2 @@
 # suncli
-yarn global add cps-cl
+yarn global add cps-cli
